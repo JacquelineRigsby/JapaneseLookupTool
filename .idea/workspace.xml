@@ -16,13 +16,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d66cad96-a2d0-4550-b5a8-5a1bfd47e9fe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdictproject/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/jdictproject/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdictproject/tokenize.py" beforeDir="false" afterPath="$PROJECT_DIR$/jdictproject/tokenize.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdictproject/translate.py" beforeDir="false" afterPath="$PROJECT_DIR$/jdictproject/translate.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -224,7 +218,7 @@
       <workItem from="1600830396726" duration="271000" />
       <workItem from="1600830864103" duration="2019000" />
       <workItem from="1600833328518" duration="2151000" />
-      <workItem from="1600835519433" duration="5654000" />
+      <workItem from="1600835519433" duration="6426000" />
     </task>
     <servers />
   </component>
