@@ -5,6 +5,7 @@ tokenizer_obj = dictionary.Dictionary().create()
 
 mode = tokenizer.Tokenizer.SplitMode.A
 
+
 # A - text divided into shortest units
 # B - text divided into middle units between A and C
 # C - extracts named entities

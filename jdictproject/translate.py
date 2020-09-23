@@ -1,6 +1,5 @@
 import pykakasi
 from pykakasi import kakasi
-import re
 
 kakasi = kakasi()
 

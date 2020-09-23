@@ -6,7 +6,7 @@ from jamdict import Jamdict
 from PyQt5.QtWidgets import QMainWindow, QPushButton, QApplication, QVBoxLayout, QLabel, QLineEdit, QWidget, \
     QMessageBox, QTabWidget, QListWidget, QComboBox, QInputDialog, QHBoxLayout, QGridLayout
 from jdictproject.database import connectDB, newTable, insertWord, listTable, deleteWord, dropTable, selectWord, \
-    getTables, exportCSV, findSentences
+    getTables, exportCSV
 from jdictproject.tokenize import toTokensDictionary
 from jdictproject.translate import toRomaji, toKatakana, toHiragana, toFurigana
 from PyQt5.QtCore import Qt
