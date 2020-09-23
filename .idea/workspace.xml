@@ -15,9 +15,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d66cad96-a2d0-4550-b5a8-5a1bfd47e9fe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d66cad96-a2d0-4550-b5a8-5a1bfd47e9fe" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -216,6 +214,7 @@
       <workItem from="1600639240427" duration="46736000" />
       <workItem from="1600830396726" duration="271000" />
       <workItem from="1600830864103" duration="2019000" />
+      <workItem from="1600833328518" duration="642000" />
     </task>
     <servers />
   </component>
@@ -326,7 +325,7 @@
     <SUITE FILE_PATH="coverage/jDictProject$tokenize.coverage" NAME="tokenize Coverage Results" MODIFIED="1597250464749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/jDictProject$translate__2_.coverage" NAME="translate (2) Coverage Results" MODIFIED="1597800014227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdictproject" />
     <SUITE FILE_PATH="coverage/jDictProject$tokenize__1_.coverage" NAME="tokenize (1) Coverage Results" MODIFIED="1597544017384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdictproject" />
-    <SUITE FILE_PATH="coverage/jDictProject$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1600831434592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdictproject" />
+    <SUITE FILE_PATH="coverage/jDictProject$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1600833925402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdictproject" />
     <SUITE FILE_PATH="coverage/jDictProject$buttons.coverage" NAME="buttons Coverage Results" MODIFIED="1598129364811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdictproject" />
     <SUITE FILE_PATH="coverage/jDictProject$tatoebaParse.coverage" NAME="tatoebaParse Coverage Results" MODIFIED="1600727165091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdictproject" />
     <SUITE FILE_PATH="coverage/jDictProject$tangorinScrape__1_.coverage" NAME="tangorinScrape (1) Coverage Results" MODIFIED="1600701006622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdictproject" />
