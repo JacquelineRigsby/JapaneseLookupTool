@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d66cad96-a2d0-4550-b5a8-5a1bfd47e9fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fxWWC3Sd2T40mSgSUW6aRvZR3j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\catsp\PycharmProjects\jDictProject\jdictproject" />
+      <recent name="C:\Users\catsp\PycharmProjects\jDictProject\venv" />
+      <recent name="C:\Users\catsp\PycharmProjects\jDictProject\venv\Scripts" />
+      <recent name="C:\Users\catsp\PycharmProjects\jDictProject" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\catsp\PycharmProjects\jDictProject" />
+      <recent name="C:\Users\catsp\PycharmProjects\jDictProject\jdictproject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="jDictProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jdictproject" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jdictproject/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sentences (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="jDictProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jdictproject" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jdictproject/sentences.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sentences" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="jDictProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jdictproject" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\catsp\PycharmProjects\jDictProject\jdictproject\sentences.py" />
+      <option name="PARAMETERS" value="cat" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tangorinScrape (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="jDictProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jdictproject" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jdictproject/tangorinScrape.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tangorinScrape" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="jDictProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jdictproject" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\catsp\PycharmProjects\jDictProject\jdictproject\tangorinScrape.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main (1)" />
+      <item itemvalue="Python.sentences (1)" />
+      <item itemvalue="Python.sentences" />
+      <item itemvalue="Python.tangorinScrape (1)" />
+      <item itemvalue="Python.tangorinScrape" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.sentences (1)" />
+        <item itemvalue="Python.sentences" />
+        <item itemvalue="Python.tangorinScrape (1)" />
+        <item itemvalue="Python.tangorinScrape" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\catsp\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d66cad96-a2d0-4550-b5a8-5a1bfd47e9fe" name="Default Changelist" comment="" />
+      <created>1597160253417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597160253417</updated>
+      <workItem from="1597160290021" duration="7270000" />
+      <workItem from="1597173290689" duration="15045000" />
+      <workItem from="1597248256829" duration="28733000" />
+      <workItem from="1597541509670" duration="20000" />
+      <workItem from="1597541546831" duration="27751000" />
+      <workItem from="1597798073207" duration="90798000" />
+      <workItem from="1598652860853" duration="68002000" />
+      <workItem from="1599610600605" duration="99237000" />
+      <workItem from="1600289061781" duration="21778000" />
+      <workItem from="1600639240427" duration="46736000" />
+      <workItem from="1600830396726" duration="271000" />
+      <workItem from="1600830864103" duration="2019000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="679" y="362" key="#SQL_Dialects" timestamp="1597366912395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="362" key="#SQL_Dialects/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597366912395" />
+    <state x="828" y="260" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600660259834">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="260" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600660259834" />
+    <state x="1200" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600724074130">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1200" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600724074130" />
+    <state x="1168" y="274" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600736524850">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1168" y="274" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600736524850" />
+    <state x="1191" y="376" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1600829965456">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1191" y="376" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600829965456" />
+    <state x="1224" y="276" key="FileChooserDialogImpl" timestamp="1600833289429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1224" y="276" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600833289429" />
+    <state width="454" height="335" key="GridCell.Tab.0.bottom" timestamp="1600833290651">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="454" height="335" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600833290651" />
+    <state width="454" height="335" key="GridCell.Tab.0.center" timestamp="1600833290651">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="454" height="335" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600833290651" />
+    <state width="454" height="335" key="GridCell.Tab.0.left" timestamp="1600833290650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="454" height="335" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600833290650" />
+    <state width="454" height="335" key="GridCell.Tab.0.right" timestamp="1600833290651">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="454" height="335" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600833290651" />
+    <state width="454" height="343" key="GridCell.Tab.1.bottom" timestamp="1600145274372">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="454" height="343" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600145274372" />
+    <state width="454" height="343" key="GridCell.Tab.1.center" timestamp="1600145274372">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="454" height="343" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600145274372" />
+    <state width="454" height="343" key="GridCell.Tab.1.left" timestamp="1600145274372">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="454" height="343" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600145274372" />
+    <state width="454" height="343" key="GridCell.Tab.1.right" timestamp="1600145274372">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="454" height="343" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600145274372" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1600057721876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600057721876" />
+    <state x="922" y="166" key="SettingsEditor" timestamp="1600831490359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="166" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600831490359" />
+    <state x="469" y="83" width="1217" height="822" key="com.intellij.database.dbimport.ImportDialog" timestamp="1600734408175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="469" y="83" width="1217" height="822" key="com.intellij.database.dbimport.ImportDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600734408175" />
+    <state x="998" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1597606866202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="998" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597606866202" />
+    <state x="1022" y="179" key="editAsTableFormatDialogDimension" timestamp="1599865356469">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1022" y="179" key="editAsTableFormatDialogDimension/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599865356469" />
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1599501622416">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599501622416" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/jDictProject$translate.coverage" NAME="translate Coverage Results" MODIFIED="1597250438277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/jDictProject$jishoScrape.coverage" NAME="jishoScrape Coverage Results" MODIFIED="1600642115194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdictproject" />
+    <SUITE FILE_PATH="coverage/jDictProject$GUI.coverage" NAME="main Coverage Results" MODIFIED="1598138678416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdictproject" />
+    <SUITE FILE_PATH="coverage/jDictProject$gui_mainwindow.coverage" NAME="gui_mainwindow Coverage Results" MODIFIED="1598144757177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdictproject/ui" />
+    <SUITE FILE_PATH="coverage/jDictProject$sentences__1_.coverage" NAME="sentences (1) Coverage Results" MODIFIED="1600734126649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdictproject" />
+    <SUITE FILE_PATH="coverage/jDictProject$translate__1_.coverage" NAME="translate (1) Coverage Results" MODIFIED="1597250512162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/jDictProject$tokenize.coverage" NAME="tokenize Coverage Results" MODIFIED="1597250464749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/jDictProject$translate__2_.coverage" NAME="translate (2) Coverage Results" MODIFIED="1597800014227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdictproject" />
+    <SUITE FILE_PATH="coverage/jDictProject$tokenize__1_.coverage" NAME="tokenize (1) Coverage Results" MODIFIED="1597544017384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdictproject" />
+    <SUITE FILE_PATH="coverage/jDictProject$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1600831434592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdictproject" />
+    <SUITE FILE_PATH="coverage/jDictProject$buttons.coverage" NAME="buttons Coverage Results" MODIFIED="1598129364811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdictproject" />
+    <SUITE FILE_PATH="coverage/jDictProject$tatoebaParse.coverage" NAME="tatoebaParse Coverage Results" MODIFIED="1600727165091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdictproject" />
+    <SUITE FILE_PATH="coverage/jDictProject$tangorinScrape__1_.coverage" NAME="tangorinScrape (1) Coverage Results" MODIFIED="1600701006622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdictproject" />
+    <SUITE FILE_PATH="coverage/jDictProject$database.coverage" NAME="database Coverage Results" MODIFIED="1597801383600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdictproject" />
+  </component>
+</project>
