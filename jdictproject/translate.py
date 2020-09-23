@@ -87,15 +87,3 @@ def toFurigana(str):
     conv = kakasi.getConverter()
 
     return tokenTranslation(conv, str)
-
-# TODO following functions are not in use yet
-
-def hiraganaDetect(str):
-    if re.findall(u'[\u3040-\u309f]', str):
-        return True
-    return False
-
-def katakanaDetect(str):
-    if re.findall(u'[\u30a0-\u30FF]', str):
-        return True
-    return False

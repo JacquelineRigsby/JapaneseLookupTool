@@ -79,18 +79,6 @@ def dropTable(con, table):
     cur.execute(sql)
     con.commit()
 
-def findSentences(con, word):
-    sql = "SELECT Jp, Eng FROM jpengSentences WHERE Jp LIKE '%?%' LIMIT 10"
-    cur = con.cursor()
-    cur.execute(sql, (word,))
-    result = cur.fetchall()
-    sentences = []
-    for i in result:
-        for j in i:
-            sentences.append(j)
-    con.commit()
-    return sentences
-
 def exportCSV(con, table):
     try:
         sql = 'SELECT * FROM ' + table
